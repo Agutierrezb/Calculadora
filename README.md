@@ -7,16 +7,21 @@
 
 2)
 
-3)  Multiplicar <br />
-    Double <br />
-    Double <br />
-    El metodo toma la variable *"a"* y la mutiplica con la variable *"b"*, retornando el resultado de esta operación.
     
-4)  Dividir <br />
-    Double <br />
-    Double <br />
-    El metodo toma la variable *"a"* y la divide con la variable *"b"*, retornando el resultado de esta operación.
+ <h4><i>Multiplicar</i></h4>
+ <details>
+ <summary></summary>
+ <p>Entrada: Double <br />
+    Salida: Double<br />
+    El metodo toma la variable *"a"* y la mutiplica con la variable *"b"*, retornando el resultado de esta operación.</p>
+</details>
    
+ <h4><i>Dividir</i></h4>
+ <details>
+ <summary></summary>
+ <p>Entrada: Double <br />
+    Salida: Double<br />
+    El metodo toma la variable *"a"* y la divide con la variable *"b"*, retornando el resultado de esta operación.</p>
 </details>
 
  <h4><i>Mayor</i></h4>
