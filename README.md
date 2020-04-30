@@ -9,18 +9,13 @@ Metodos:
 3)  Multiplicar
     Double
     Double
-    El metodo toma la variable "a" y la mutiplica con la variable "b". 
-    double multiplicar(){
-        return a*b;
-    }
+    El metodo toma la variable "a" y la mutiplica con la variable "b", retornando el resultado de esta operación.
+    
 4)  Dividir
     Double
     Double
-    El metodo toma la variable "a" y la divide con la variable "b". 
-    double dividir(){
-        return a/b;
-    }
-
+    El metodo toma la variable "a" y la divide con la variable "b", retornando el resultado de esta operación.
+   
 5)
 
 6)
