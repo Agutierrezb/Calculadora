@@ -7,9 +7,9 @@
 <h4><i>Sumar</i></h4>
  <details>
  <summary></summary>
- <p>Entrada: Double <br/>
+ <i>Entrada: Double <br/>
     Salida: Double<br/>
-    El metodo toma la variable "a" y la suma con la variable "b", retornando el resultado de esta operación.</p>
+    El metodo toma la variable "a" y la suma con la variable "b", retornando el resultado de esta operación.</i>
 </details>
 
 <h4><i>Restar</i></h4>
