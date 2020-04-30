@@ -1,6 +1,6 @@
 # Calculadora
-Proyecto simulación calculadora.
-
+<h2>Proyecto simulación calculadora.</h2>
+<body>
 **Metodos:**
 
 1)
@@ -17,6 +17,7 @@ Proyecto simulación calculadora.
     Double <br />
     El metodo toma la variable *"a"* y la divide con la variable *"b"*, retornando el resultado de esta operación.
    
-5)
+5) <section>Mayor</section>
 
 6)
+</body>
