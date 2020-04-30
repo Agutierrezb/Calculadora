@@ -6,9 +6,9 @@ Metodos:
 
 2)
 
-3)  Multiplicar \n
-    Double
-    Double
+3)  Multiplicar <br />
+    Double <br />
+    Double <br />
     El metodo toma la variable "a" y la mutiplica con la variable "b", retornando el resultado de esta operación.
     
 4)  Dividir
