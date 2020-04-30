@@ -17,7 +17,7 @@
     Double <br />
     El metodo toma la variable *"a"* y la divide con la variable *"b"*, retornando el resultado de esta operación.
    
-5) </details>
+</details>
 
  <h4><i>Mayor</i></h4>
  <details>
@@ -27,7 +27,6 @@
     El metodo compra la variable *"a"* y *"b"*, retornando el numero mayor.</p>
 </details>
 
-6)
  <h4><i>Potencia</i></h4>
  <details>
  <summary></summary>
