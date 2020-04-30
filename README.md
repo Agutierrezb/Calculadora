@@ -12,9 +12,9 @@ Proyecto simulación calculadora.
     Double <br />
     El metodo toma la variable *"a"* y la mutiplica con la variable *"b"*, retornando el resultado de esta operación.
     
-4)  Dividir
-    Double
-    Double
+4)  Dividir <br />
+    Double <br />
+    Double <br />
     El metodo toma la variable *"a"* y la divide con la variable *"b"*, retornando el resultado de esta operación.
    
 5)
