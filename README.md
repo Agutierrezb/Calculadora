@@ -1,5 +1,5 @@
 # Calculadora
-<body>
+<body><div>
 <h2>Analisis proyecto simulación calculadora.</h2>
 
 <b/>Metodos:"<b/>
@@ -52,4 +52,5 @@
     Salida: Double<br />
     El metodo toma la variable "a" como base y su exponente es "b", retornado el resultado de la potencia.</p>
 </details>
+</div>
 </body>
