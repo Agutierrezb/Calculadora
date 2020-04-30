@@ -1,7 +1,8 @@
 # Calculadora
-<h2>Analisis proyecto simulación calculadora.</h2>
 <body>
-<b/>Metodos:<b/>
+<h2>Analisis proyecto simulación calculadora.</h2>
+
+<b/>Metodos:"<b/>
 
 <h4><i>Sumar</i></h4>
  <details>
@@ -47,8 +48,8 @@
  <h4><i>Potencia</i></h4>
  <details>
  <summary></summary>
- Entrada: Double <br />
+ <p>Entrada: Double <br />
     Salida: Double<br />
-    El metodo toma la variable "a" como base y su exponente es "b", retornado el resultado de la potencia.
+    El metodo toma la variable "a" como base y su exponente es "b", retornado el resultado de la potencia.</p>
 </details>
 </body>
