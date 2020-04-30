@@ -1,7 +1,8 @@
 # Calculadora
 Proyecto simulación calculadora.
 
-Metodos:
+**Metodos:**
+
 1)
 
 2)
@@ -9,12 +10,12 @@ Metodos:
 3)  Multiplicar <br />
     Double <br />
     Double <br />
-    El metodo toma la variable "a" y la mutiplica con la variable "b", retornando el resultado de esta operación.
+    El metodo toma la variable *"a"* y la mutiplica con la variable *"b"*, retornando el resultado de esta operación.
     
 4)  Dividir
     Double
     Double
-    El metodo toma la variable "a" y la divide con la variable "b", retornando el resultado de esta operación.
+    El metodo toma la variable *"a"* y la divide con la variable *"b"*, retornando el resultado de esta operación.
    
 5)
 
