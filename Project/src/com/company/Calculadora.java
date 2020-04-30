@@ -31,4 +31,12 @@ public class Calculadora {
     double restar(){
         return a-b;
     }
+
+    double multiplicar(){
+        return a*b;
+    }
+
+    double dividir(){
+        return a/b;
+    }
 }
