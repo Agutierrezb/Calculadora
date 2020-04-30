@@ -1,5 +1,7 @@
 package com.company;
 
+import java.lang.Math;
+
 public class Calculadora {
     private double a;
     private double b;
@@ -25,18 +27,27 @@ public class Calculadora {
         this.b = b;
     }
 
-    double sumar(){
-        return a+b;
-    }
-    double restar(){
-        return a-b;
+    double sumar() {
+        return a + b;
     }
 
-    double multiplicar(){
-        return a*b;
+    double restar() {
+        return a - b;
     }
 
-    double dividir(){
-        return a/b;
+    double multiplicar() {
+        return a * b;
+    }
+
+    double dividir() {
+        return a / b;
+    }
+
+    double mayor() {
+        return Math.max(a, b);
+    }
+
+    double potencia() {
+        return Math.pow(a, b);
     }
 }
