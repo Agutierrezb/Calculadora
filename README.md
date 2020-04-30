@@ -1,8 +1,9 @@
 # Calculadora
-<body><div>
+<body>
+ <div>
 <h2>Analisis proyecto simulación calculadora.</h2>
 
-<b/>Metodos:"<b/>
+<b>Metodos:</b>
 
 <h4><i>Sumar</i></h4>
  <details>
