@@ -1,11 +1,23 @@
 # Calculadora
-<h2>Proyecto simulación calculadora.</h2>
+<h2>Analisis proyecto simulación calculadora.</h2>
 <body>
-**Metodos:**
+<b/>Metodos:"<b/>
 
-1)
+<h4><i>Sumar</i></h4>
+ <details>
+ <summary></summary>
+ <p>Entrada: Double <br />
+    Salida: Double<br />
+    El metodo toma la variable *"a"* y la suma con la variable *"b"*, retornando el resultado de esta operación.</p>
+</details>
 
-2)
+<h4><i>Restar</i></h4>
+ <details>
+ <summary></summary>
+ <p>Entrada: Double <br />
+    Salida: Double<br />
+    El metodo toma la variable *"a"* y la resta con la variable *"b"*, retornando el resultado de esta operación.</p>
+</details>
 
     
  <h4><i>Multiplicar</i></h4>
