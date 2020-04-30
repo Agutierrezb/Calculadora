@@ -17,7 +17,8 @@
     Double <br />
     El metodo toma la variable *"a"* y la divide con la variable *"b"*, retornando el resultado de esta operación.
    
-5) <section>Mayor</section>
+5) <summary></summary>
+<section>Mayor</section>
 
 6)
 </body>
