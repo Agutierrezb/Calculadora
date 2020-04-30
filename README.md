@@ -6,7 +6,7 @@ Metodos:
 
 2)
 
-3)  Multiplicar
+3)  Multiplicar \n
     Double
     Double
     El metodo toma la variable "a" y la mutiplica con la variable "b", retornando el resultado de esta operación.
