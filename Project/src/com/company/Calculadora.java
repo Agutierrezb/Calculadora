@@ -2,28 +2,28 @@ package com.company;
 
 import java.lang.Math;
 
-public class Calculadora {
+class Calculadora {
     private double a;
     private double b;
 
-    public Calculadora(double a, double b) {
+    Calculadora(double a, double b) {
         this.a = a;
         this.b = b;
     }
 
-    public double getA() {
+    double getA() {
         return a;
     }
 
-    public void setA(double a) {
+    void setA(double a) {
         this.a = a;
     }
 
-    public double getB() {
+    double getB() {
         return b;
     }
 
-    public void setB(double b) {
+    void setB(double b) {
         this.b = b;
     }
 
