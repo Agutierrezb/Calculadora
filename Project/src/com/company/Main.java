@@ -9,6 +9,11 @@ private static Scanner scanner = new Scanner(System.in);
 private static Calculadora calculadora = new Calculadora(0,0);
 
     public static void main(String[] args) {
+        menu();
+
+    }
+
+    private static void menu(){
         int selección = 0;
         System.out.println("Calculadora" + '\n'+
                 "Seleccione una operación:" + '\n' +
