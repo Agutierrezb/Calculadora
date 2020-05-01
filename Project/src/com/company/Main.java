@@ -14,7 +14,7 @@ private static Calculadora calculadora = new Calculadora(0,0);
     }
 
     private static void menu(){
-        int selección = 0;
+        int seleccion = 0;
         System.out.println("Calculadora" + '\n'+
                 "Seleccione una operación:" + '\n' +
                 "1) Suma" + '\n' +
@@ -23,8 +23,8 @@ private static Calculadora calculadora = new Calculadora(0,0);
                 "4) Division" + '\n' +
                 "5) Mayor de dos números" + '\n' +
                 "6) Potencia de un número");
-        selección = scanner.nextInt();
-        switch (selección){
+        seleccion = scanner.nextInt();
+        switch (seleccion){
             case 1:
                 System.out.println("Ingrese los números a sumar:");
                 System.out.println("a: ");
