@@ -33,7 +33,8 @@ class Calculadora {
                                             Entrada: Double
                                             Salida: Double
                                             El metodo toma la variable "a" y la suma con la variable "b",
-                                            retornando el resultado de esta operación.*/
+                                            retornando el resultado de esta operación.
+                                            Autor: Felipe Sanzana*/
 
     double restar() {
         return a - b;
@@ -41,7 +42,8 @@ class Calculadora {
                                             Entrada: Double
                                             Salida: Double
                                             El metodo toma la variable "a" y la resta con la variable "b",
-                                            retornando el resultado de esta operación.*/
+                                            retornando el resultado de esta operación.
+                                            Autor: Felipe Sanzana*/
 
     double multiplicar() {
         return a * b;
