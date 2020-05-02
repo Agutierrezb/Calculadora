@@ -29,11 +29,19 @@ class Calculadora {
 
     double sumar() {
         return a + b;
-    }
+}                                      /*   Metodo sumar
+                                            Entrada: Double
+                                            Salida: Double
+                                            El metodo toma la variable "a" y la suma con la variable "b",
+                                            retornando el resultado de esta operación.*/
 
     double restar() {
         return a - b;
-    }
+    }                                   /*  Metodo restar
+                                            Entrada: Double
+                                            Salida: Double
+                                            El metodo toma la variable "a" y la resta con la variable "b",
+                                            retornando el resultado de esta operación.*/
 
     double multiplicar() {
         return a * b;
