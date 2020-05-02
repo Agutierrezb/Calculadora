@@ -47,17 +47,36 @@ class Calculadora {
 
     double multiplicar() {
         return a * b;
-    }
+    }                                   /*  Metodo multiplicar
+                                            Entrada: Double
+                                            Salida: Double
+                                            El metodo toma la variable "a" y la mutiplica con la variable "b",
+                                            retornando el resultado de esta operación.
+                                            Autor: Arturo Gutiérrez*/
 
     double dividir() {
         return a / b;
-    }
+    }                                   /* Metodo dividir
+                                            Entrada: Double
+                                            Salida: Double
+                                            El metodo toma la variable "a" y la divide con la variable "b",
+                                            retornando el resultado de esta operación.
+                                            Autor: Arturo Gutiérrez*/
 
     double mayor() {
         return Math.max(a, b);
-    }
+    }                                   /* Metodo mayor
+                                            Entrada: Double
+                                            Salida: Double
+                                            El metodo compra la variable "a" y "b", retornando el numero mayor.
+                                            Autor: Vicente Silva*/
 
     double potencia() {
         return Math.pow(a, b);
-    }
+    }                                   /* Metodo potencia
+                                            Entrada: Double
+                                            Salida: Double
+                                            El metodo toma la variable "a" como base y su exponente es "b",
+                                            retornado el resultado de la potencia.
+                                            Autor: Vicente Silva*/
 }
