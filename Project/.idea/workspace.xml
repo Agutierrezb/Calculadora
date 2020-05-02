@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb067627-9e94-401a-bd91-528718492b6b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bb067627-9e94-401a-bd91-528718492b6b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +11,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\GitHub\Calculadora\Calculadora\Project\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1bHIzd95uJdMkwBXnjrv1DWVDU9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/untitled1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,6 +50,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,5 +81,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="201" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588377081970">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="353" y="201" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588377081970" />
+    <state width="1338" height="266" key="GridCell.Tab.0.bottom" timestamp="1588377545570">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1338" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588377545570" />
+    <state width="1338" height="266" key="GridCell.Tab.0.center" timestamp="1588377545570">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1338" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588377545570" />
+    <state width="1338" height="266" key="GridCell.Tab.0.left" timestamp="1588377545569">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1338" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588377545569" />
+    <state width="1338" height="266" key="GridCell.Tab.0.right" timestamp="1588377545570">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1338" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588377545570" />
   </component>
 </project>
