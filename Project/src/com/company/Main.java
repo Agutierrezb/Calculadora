@@ -81,6 +81,7 @@ public class Main {
                     break;
                 default:
                     seleccion = -1;
+                    System.out.println("Ingrese una opcion disponible");
                     break;
 
             }
